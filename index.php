@@ -2,7 +2,7 @@
 
 $harga = 12500;
 
-echo $harga;
+echo $harga."<br>";
 $jumlah = 4;
 $uang = 50000;
 
