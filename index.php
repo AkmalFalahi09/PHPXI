@@ -1,11 +1,11 @@
 <?php
 
 $harga = 12500;
-
-echo $harga."<br>";
 $jumlah = 4;
 $uang = 50000;
 
+echo "Harga : "$harga."<br>";
+echo "Jumlah : "$jumlah."<br>";
 echo "Uang : Rp.".$uang."<br>";
 
 function hitung($harga, $jumlah) {
