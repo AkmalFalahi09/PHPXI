@@ -24,4 +24,6 @@ else {
     $kurang = $total - $uang;
     echo "Kurang Uang : Rp.".$kurang;
 }
+
+echo "<br>"."TERIMAKASIH SUDAH BERBELANJA";
 ?>
