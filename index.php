@@ -1,11 +1,12 @@
 <?php
 
+echo "SELAMAT DATANG DI TOKO KAMI"."<br>"."SELAMAT BERBELANJA"."<br>";
 $harga = 12500;
 $jumlah = 4;
 $uang = 50000;
 
-echo "Harga : "$harga."<br>";
-echo "Jumlah : "$jumlah."<br>";
+echo "Harga : ".$harga."<br>";
+echo "Jumlah : ".$jumlah."<br>";
 echo "Uang : Rp.".$uang."<br>";
 
 function hitung($harga, $jumlah) {
