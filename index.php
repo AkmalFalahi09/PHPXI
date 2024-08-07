@@ -1,6 +1,8 @@
 <?php
 
 $harga = 12500;
+
+echo $harga;
 $jumlah = 4;
 $uang = 50000;
 
